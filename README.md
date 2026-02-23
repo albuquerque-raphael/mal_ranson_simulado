@@ -1,4 +1,4 @@
-# Malware PoC: Ransoware & Keylogger Simulation 🛡️🐍
+# Malware PoC: Ransomware & Keylogger Simulation 🛡️🐍
 
 ![Security Analysis](https://img.shields.io/badge/Focus-Malware_Analysis-red)
 ![Language](https://img.shields.io/badge/Language-Python_3-blue)
